@@ -1,0 +1,18 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "video_sources_from_uploaded_js": 20,
+  "category_counts": {
+    "juqing": 225,
+    "dongzuo": 222,
+    "xuanyi": 223,
+    "xiju": 223,
+    "kehuan": 218,
+    "jiating": 221,
+    "dongman": 143,
+    "lishi": 222,
+    "zongyi": 74,
+    "qita": 229
+  }
+}
